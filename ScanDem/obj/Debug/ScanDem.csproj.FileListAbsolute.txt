@@ -1,0 +1,14 @@
+D:/visualstudio/ScanDem/ScanDem/obj/Debug/ScanDem.csproj.CoreCompileInputs.cache
+D:/visualstudio/ScanDem/ScanDem/bin/Debug/ScanDem.exe
+D:/visualstudio/ScanDem/ScanDem/bin/Debug/ScanDem.pdb
+D:/visualstudio/ScanDem/ScanDem/bin/Debug/Newtonsoft.Json.xml
+D:/visualstudio/ScanDem/ScanDem/obj/Debug/ScanDem.csprojResolveAssemblyReference.cache
+D:/visualstudio/ScanDem/ScanDem/obj/Debug/ScanDem.csproj.CopyComplete
+D:/visualstudio/ScanDem/ScanDem/obj/Debug/ScanDem.exe
+D:/visualstudio/ScanDem/ScanDem/obj/Debug/ScanDem.pdb
+/Users/gufengtao/C#/ScanDem/ScanDem/bin/Debug/ScanDem.exe
+/Users/gufengtao/C#/ScanDem/ScanDem/bin/Debug/ScanDem.pdb
+/Users/gufengtao/C#/ScanDem/ScanDem/obj/Debug/ScanDem.csproj.CoreCompileInputs.cache
+/Users/gufengtao/C#/ScanDem/ScanDem/obj/Debug/ScanDem.csproj.CopyComplete
+/Users/gufengtao/C#/ScanDem/ScanDem/obj/Debug/ScanDem.exe
+/Users/gufengtao/C#/ScanDem/ScanDem/obj/Debug/ScanDem.pdb

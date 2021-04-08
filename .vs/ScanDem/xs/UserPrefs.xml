@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{A3E3ED9E-462E-4D39-BDB4-F92FFC6714D0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScanDem/hyscan.cs">
+    <Files>
+      <File FileName="ScanDem/main.cs" Line="13" Column="43" />
+      <File FileName="ScanDem/hyrsa.cs" Line="105" Column="18" />
+      <File FileName="ScanDem/hyhttp.cs" Line="81" Column="13" />
+      <File FileName="ScanDem/hyscan.cs" Line="64" Column="1" />
+      <File FileName="ScanDem/iniFile.cs" Line="36" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ScanDem" expanded="True">
+            <Node name="ScanDem" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="hyscan.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ScanDem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
